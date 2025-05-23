@@ -5,6 +5,13 @@ This project aims to predict the **popularity level** of news articles from [VnE
 
 ---
 
+## 👨‍💻 Team Members
+- Vũ Đình Nhật - 23521104 - ()
+- Hồ Huỳnh Thư Nhi - 23521107 - (https://github.com/its-Nhi-Ho)
+- Lê Diễm Quỳnh Như - 23521122 - ()
+
+---
+
 ## 📌 Objectives
 
 - Automatically estimate article popularity before or shortly after publication.
