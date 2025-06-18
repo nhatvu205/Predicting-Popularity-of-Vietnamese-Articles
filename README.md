@@ -8,7 +8,7 @@ This project aims to predict the **popularity level** of news articles from [VnE
 ## 👨‍💻 Team Members
 - Vũ Đình Nhật - 23521104 - (https://github.com/nhatvu205)
 - Hồ Huỳnh Thư Nhi - 23521107 - (https://github.com/its-Nhi-Ho)
-- Lê Diễm Quỳnh Như - 23521122 - ()
+- Lê Diễm Quỳnh Như - 23521122 - (https://github.com/lediemquynhnhu875)
 
 ---
 
@@ -31,7 +31,7 @@ This project aims to predict the **popularity level** of news articles from [VnE
 
 ## 🧪 Dataset Description
 
-We collected and processed ~5400 articles from VnExpress with the following attributes:
+We collected and processed ~5300 samples from VnExpress with the following attributes:
 
 - `title`: Article headline
 - `category`: News category
@@ -39,7 +39,7 @@ We collected and processed ~5400 articles from VnExpress with the following attr
 - `image_count`, `video_count`
 - `date`
 - `tags`
-- `comments`, `interactions` *(target variables)*
+- `comments`, `interactions` *(which are used to calculate target feature - popularity score)*
 
 
 
